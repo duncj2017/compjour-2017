@@ -16,7 +16,7 @@ Can you quickly describe what's going on in the [following 33 second clip](https
 
 What important aspect or subtask of the real-world data work is not in the movie?
 
-Can you elaborate on what is going on in these timestamps?
+I don't get what's going on in these questions:
 
 - **0:03** - What book is being marked up?
 - **0:03** - **0:22** - What is the significance of marking Paul Mahan (or any of the names) as having sick leave?
@@ -41,11 +41,12 @@ In the movie, and in various other reported accounts, such as [Sarah Larson's ar
 
 >  At the Globe, Baron said, his first day’s editorial meeting was much as it was depicted in “Spotlight.” “We went around the table and people mentioned their stories,” he said. “And I asked them about Eileen’s column and said, ‘One side’s saying one thing, we have another side saying something else. Isn’t there a way we can get at the truth?’ And people noted that the documents were under seal. I said I knew that, and I don’t know the laws of Massachusetts, but in Florida we might have wanted to go to court to unseal the documents. Had we thought of doing that? And there was dead silence in the room. I didn’t quite know how to respond.”
 
-It almost seems that luck played a part -- if Baron hadn't read [Eileen McNamara's column as he made his move to Boston](http://www.bishop-accountability.org/news5/2001_07_29_McNamara_Passing_the_Buck.htm), he would've never challenged the Spotlight team to get the documents. But besides that, McNamara's column portrays a situation in which public outrage is already high toward Rev. John Geoghan, who was facing trial on allegations of raping dozens of boys. And it was a known fact to McNamara that Cardinal Law had transferred troubled priests like Geoghan as early as 1985. 
+It almost seems that luck played a part -- if Baron hadn't read [Eileen McNamara's column as he made his move to Boston](http://www.bishop-accountability.org/news5/2001_07_29_McNamara_Passing_the_Buck.htm), he would've never challenged the Spotlight team to get the documents, even though McNamara's column indicated that shocking revelations about the Church were already known.
 
-One powerful scene has lawyer Eric MacLeish lashing out at the Spotlight team for ignoring the cases he gave them and burying the story in Metro back in 1993 (I [think this might be the story](http://archive.boston.com/globe/spotlight/abuse/archives/120993_accusations.htm)). Former Globe reporter Allison Bass wrote a blog post in which she agreed with the movie's insinuiation that the Globe was afraid of the Catholic Church, and that [editors conspired to stifle the reporting she did as early as 1990](http://www.huffingtonpost.com/alison-bass/boston-priest-scandal-story-spotlight_b_9041238.html).
+One powerful scene has lawyer Eric MacLeish lashing out at the Spotlight team for burying the story in Metro back in 1993 (I [think this might be the story](http://archive.boston.com/globe/spotlight/abuse/archives/120993_accusations.htm)). Former Globe reporter Allison Bass wrote a blog post in which she agreed with the movie's insinuiation that the Globe was afraid of the Catholic Church, and that [editors conspired to stifle the reporting she did as early as 1990](http://www.huffingtonpost.com/alison-bass/boston-priest-scandal-story-spotlight_b_9041238.html).
 
-Is it possible that pre-2002, enough was known about the priest scandal -- Father Porter, Geoghan's early allegations and transfers, the info that MacLeish had at his disposal -- that a determined Spotlight team could have broken the story 5+ years before 2002? Besides the arrival of Marty Baron, what were the major differences in circumstances that allowed for the 2002 investigation to succeed where others stalled?
+From your perspective, besides  a changing of the executive editors, what circumstances in 2002 made it possible for the investigation to go forward rather than stall as it did in the 90s? Why weren't the known violations of Father Porter and older priests enough to spark a full-on investigation?
+
 
 
 ### 5. Your data playbook vs. the reality of the investigation
